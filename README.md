@@ -23,9 +23,9 @@ See tekst siin selgitab kursuse sisu ja on ka väga tähtis osa ning iga üliõp
 
 [Harjutused](https://github.com/urmas-villem/MockRepo/tree/main/Harjutused)
 - [Harjutus1](Harjutused/Harjutus1.md)
-- [Harjutus2](Harjutused/Harjutus1.md)
-- [Harjutus3](Harjutused/Harjutus1.md)
-- [Harjutus4](Harjutused/Harjutus1.md)
+- [Harjutus2](Harjutused/Harjutus2.md)
+- [Harjutus3](Harjutused/Harjutus3.md)
+- [Harjutus4](Harjutused/Harjutus4.md)
 
 ## Hinde saad kursusel nii:
 
