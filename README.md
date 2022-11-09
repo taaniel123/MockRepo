@@ -6,7 +6,7 @@ See tekst siin selgitab kursuse sisu ja on ka väga tähtis osa ning iga üliõp
 
 ### Kursuse sisu mudel
 
-[Hindamismudel](https://github.com/urmas-villem/MockRepo/tree/main/Hindamismudel)
+[Hindamismudel](Hindamismudel/Hindamismudel.md)
 
 [Loengud](https://github.com/urmas-villem/MockRepo/tree/main/Loengud)
 - [Loeng1](Loengud/Loeng1/loeng.md)
@@ -22,10 +22,10 @@ See tekst siin selgitab kursuse sisu ja on ka väga tähtis osa ning iga üliõp
 - - [Videoloeng4](Loengud/Video%20Loengud/Videoloeng%204.md)
 
 [Harjutused](https://github.com/urmas-villem/MockRepo/tree/main/Harjutused)
-- [Harjutus1](https://github.com/urmas-villem/MockRepo/blob/main/Harjutused/Harjutus1)
-- [Harjutus2](https://github.com/urmas-villem/MockRepo/blob/main/Harjutused/Harjutus2)
-- [Harjutus3](https://github.com/urmas-villem/MockRepo/blob/main/Harjutused/Harjutus3)
-- [Harjutus4](https://github.com/urmas-villem/MockRepo/blob/main/Harjutused/Harjutus4)
+- [Harjutus1](Harjutused/Harjutus1.md)
+- [Harjutus2](Harjutused/Harjutus1.md)
+- [Harjutus3](Harjutused/Harjutus1.md)
+- [Harjutus4](Harjutused/Harjutus1.md)
 
 ## Hinde saad kursusel nii:
 
